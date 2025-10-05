@@ -1,23 +1,5 @@
 [
 {
-    "id": "Trending-folder",
-    "name": "Trending",
-    "category": "Streaming Services",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Landscape",
-    "backgroundColor": "#000000",
-    "backgroundImageURL": "https://raw.githubusercontent.com/iariam/Fusion/refs/heads/main/Trending.png",
-    "logoURL": null,
-    "mediaTypeFilter": "All Content",
-    "iconName": "tv",
-    "showIcon": false,
-    "nameDisplayMode": "Below Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold"
-  }, 
-
-{
     "id": "Latest Releases-folder",
     "name": "Latest Releases",
     "category": "Streaming Services",
